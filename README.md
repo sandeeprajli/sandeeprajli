@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning ... MLOps, DevOps & Distributed Systems  
+- 🌱 I’m currently learning ... DevOps & Distributed Systems  
 - 👯 I’m looking to collaborate on ... Backend Projects & Open Source  
 - ⚡ Fun fact: I love digging into performance bottlenecks and clean system design
 
@@ -34,9 +34,6 @@
 <p align="left">
 <a href="https://golang.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-</a>
-<a href="https://grpc.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gRPC" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
