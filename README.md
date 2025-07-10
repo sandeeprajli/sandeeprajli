@@ -53,11 +53,8 @@
 <a href="https://swagger.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
 </a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
 <a href="https://ffmpeg.org/" target="_blank">
-<img src="https://www.logo.wine/a/logo/FFmpeg/FFmpeg-Logo.wine.svg" alt="ffmpeg" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegRcY4pUC5bU-2r1PvAOxlPBRyjKhhnErSA&s" alt="ffmpeg" width="40" height="40"/>
 </a>
 </p>
 
